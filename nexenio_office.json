@@ -136,7 +136,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Conference Room"
+                 "value":"Design Thinking Room"
                 }],
          "type":"tilelayer",
          "visible":true,
